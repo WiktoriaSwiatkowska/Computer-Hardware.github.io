@@ -1,0 +1,22 @@
+<hardware>
+    <processor brand="Intel" speed="3.5GHz" cores="8">
+        <model>Core i7-12700K</model>
+        <socket>LGA 1700</socket>
+        <release_year>2022</release_year>
+        <price currency="USD">389</price>
+    </processor>
+    
+    <graphicsCard brand="NVIDIA" memory="16GB" power="300W">
+        <model>RTX 3080</model>
+        <architecture>Ampere</architecture>
+        <release_year>2020</release_year>
+        <price currency="USD">699</price>
+    </graphicsCard>
+    
+    <storage brand="Samsung" type="SSD" capacity="1TB">
+        <model>970 Evo Plus</model>
+        <interface>PCIe 3.0</interface>
+        <release_year>2019</release_year>
+        <price currency="USD">120</price>
+    </storage>
+</hardware>

@@ -1,0 +1,21 @@
+{
+    "processor": {
+      "brand": "Intel",
+      "model": "Core i9-13900K",
+      "cores": 24,
+      "hyperthreading": true
+    },
+    "graphicsCard": {
+      "brand": "AMD",
+      "model": "Radeon RX 6800 XT",
+      "memory": "16GB",
+      "price": 649.99
+    },
+    "storage": {
+      "type": "SSD",
+      "capacity": "2TB",
+      "interface": "NVMe",
+      "compatibleWith": ["Windows", "Linux", "macOS"]
+    }
+  }
+ 
